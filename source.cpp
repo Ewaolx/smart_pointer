@@ -65,7 +65,7 @@ public:
 
 
 template <class T>
-class smp                  // class for managing the smart pointer
+class smp                  // smart pointer class
 {
 private:
 	T* t;
