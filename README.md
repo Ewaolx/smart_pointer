@@ -1,1 +1,1 @@
-# smart_pointer
+# smart_pointer implementation
